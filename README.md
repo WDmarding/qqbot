@@ -18,6 +18,4 @@
 >> 输入【志愿查询 学校名】查询20年山东志愿投档<br>
 ###### 合作定制qq机器人联系vx:skr857777
 ### 欢迎提供更多有趣的服务建议，这样我才能更好的服务大家吖！<br>
-```html
 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=u1epdcKXeOY0S4G18paRcmI7LIpUKb7f&jump_from=webapi"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="那个校园群助手Pro、温" title="那个校园群助手Pro、温"></a>
-```
